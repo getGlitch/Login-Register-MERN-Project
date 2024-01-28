@@ -1,0 +1,5 @@
+![Screenshot (108)](https://github.com/getGlitch/Login-Register-MERN-Project/assets/102874692/f75af829-93c8-4c66-8eff-02bedfded5bd)
+![Screenshot (109)](https://github.com/getGlitch/Login-Register-MERN-Project/assets/102874692/57db8fc0-a7a9-4606-9e81-393beb3b035c)
+![Screenshot (110)](https://github.com/getGlitch/Login-Register-MERN-Project/assets/102874692/1b3989e1-0711-49c4-be3f-f5f9a7dd3c69)
+![Screenshot (111)](https://github.com/getGlitch/Login-Register-MERN-Project/assets/102874692/c1db22b5-baa4-4373-91b1-43480e1c8026)
+![Screenshot (112)](https://github.com/getGlitch/Login-Register-MERN-Project/assets/102874692/62fc813a-86fa-44a7-8838-7ef9529dc9ad)
